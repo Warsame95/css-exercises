@@ -5,6 +5,7 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  text-align: center;
 }
 
 img {
@@ -35,4 +36,18 @@ input {
   display: flex;
   justify-content: space-between;
   list-style: none;
+  padding: 0px;
+}
+
+li {
+  margin: 8px;
+}
+
+a:link {
+  text-decoration: none;
+  color: #686868;
+}
+
+a:hover {
+  text-decoration: underline;
 }
