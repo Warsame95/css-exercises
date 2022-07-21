@@ -44,7 +44,7 @@ input {
 }
 
 li {
-  margin: 8px;
+  margin: auto 6px;
 }
 
 a:link {
